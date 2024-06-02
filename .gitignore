@@ -1,0 +1,8 @@
+# Ignore ipub cache
+/.ipynb_checkpoints/
+
+# Ignore Obsidian config files
+.obsidian/
+
+# Ignore Python venv
+/venv/
