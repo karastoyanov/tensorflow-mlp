@@ -15,7 +15,7 @@ This project demonstrates how to analyze and predict population data using a Lon
 - NumPy
 - Pandas
 - Google Colab (for accessing Google Drive)
-- Jupiter and Jupiter Notebook to local env
+- Jupyter and Jupyter Notebook for local env instead of Google Colab
 
 ### Use requirements file to install dependencies
 ```sh
